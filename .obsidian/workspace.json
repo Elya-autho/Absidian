@@ -25,12 +25,14 @@
             "id": "aaa1c9066b80c426",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20250711162114.png"
+                "file": "Тесты для мобильных  приложений/МП Каталог К&Б.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250711162114"
+              "icon": "lucide-file",
+              "title": "МП Каталог К&Б"
             }
           }
         ],
@@ -184,8 +186,9 @@
   "active": "aaa1c9066b80c426",
   "lastOpenFiles": [
     "Тесты для web/Раздел Ценообразование.md",
-    "GIT/Создание ssh ключа.md",
+    "GIT/Команды.md",
     "Pasted image 20250711162114.png",
+    "GIT/Создание ssh ключа.md",
     "README.md",
     "GIT",
     "Тесты для мобильных  приложений/МП Каталог К&Б.md",
