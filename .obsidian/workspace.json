@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Тесты/Сервис для парсеров.md",
+                "file": "Тесты для мобильных  приложений/МП Каталог К&Б.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Сервис для парсеров"
+              "title": "МП Каталог К&Б"
             }
           },
           {
@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Инструкции/Команды для гит.md",
+                "file": "Вход в приложение Каталог К&Б.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Команды для гит"
+              "title": "Вход в приложение Каталог К&Б"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Тесты/МП Каталог К&Б.md",
+                "file": "Тесты для мобильных  приложений/МП Каталог К&Б.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for МП Каталог К&Б"
+              "title": "Обратные ссылки для МП Каталог К&Б"
             }
           },
           {
@@ -170,8 +169,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,10 +181,11 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "aaa1c9066b80c426",
+  "active": "9867f52e4d250f22",
   "lastOpenFiles": [
-    "Тесты для web/Монита (веб) Раздел Ценообразование.md",
+    "Вход в приложение Каталог К&Б.md",
     "Тесты для мобильных  приложений/МП Каталог К&Б.md",
+    "Тесты для web/Монита (веб) Раздел Ценообразование.md",
     "Инструкции/Команды для гит.md",
     "Тесты для web/Сервис для парсеров.md",
     "Автотесты/Ценообразование.md",
