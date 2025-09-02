@@ -1,0 +1,1 @@
+recognize_images - для поиска в логах
