@@ -104,13 +104,13 @@ product_id =
 ```sql 
 insert into public.provisional_list_forced (product_id, task_forced_id)
 
-values ('16482', '8413988') RETURNING id as provisional_list_forced_id;
+values ('16482', '8414022') RETURNING id as provisional_list_forced_id;
 
   
 
 insert into public.provisional_list_forced (product_id, task_forced_id)
 
-values ('18809', '8413988') RETURNING id as provisional_list_forced_id;
+values ('18809', '8414022') RETURNING id as provisional_list_forced_id;
 ```
 
 Выполнить:
