@@ -103,14 +103,13 @@ product_id =
 
 ```sql 
 insert into public.provisional_list_forced (product_id, task_forced_id)
-
-values ('16482', '8414022') RETURNING id as provisional_list_forced_id;
-
-  
+values ('9000044', '8414022') RETURNING id as provisional_list_forced_id;
 
 insert into public.provisional_list_forced (product_id, task_forced_id)
+values ('8382', '8414022') RETURNING id as provisional_list_forced_id;
 
-values ('18809', '8414022') RETURNING id as provisional_list_forced_id;
+insert into public.provisional_list_forced (product_id, task_forced_id)
+values ('7689', '8414022') RETURNING id as provisional_list_forced_id;
 ```
 
 Выполнить:
@@ -122,14 +121,13 @@ provisional_list_forced_id =
 
 ```sql 
 insert into public.provisional_list (product_id, shop_task_id)
-
-values ('16482', '556106') RETURNING id as provisional_list_id;
-
-  
+values ('9000044', '556106') RETURNING id as provisional_list_id;
 
 insert into public.provisional_list (product_id, shop_task_id)
+values ('8382', '556106') RETURNING id as provisional_list_id;
 
-values ('18809', '556106') RETURNING id as provisional_list_id;
+insert into public.provisional_list (product_id, shop_task_id)
+values ('7689', '556106') RETURNING id as provisional_list_id;
 
 ```
   
