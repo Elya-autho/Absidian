@@ -24,7 +24,7 @@ join public.shop_networks sn on gp.shop_network_id = sn.id
 where (gp.deleted is False and sn.is_online is False and gp.deleted is False) and (sn."name" like '%Монетка%' and gp.address like '%улица Рождественского, 13Б%' and c."name" like '%Челябинск%')
 ```
 Выполнить:
-geo_points_id = 370194
+geo_points_id = 370194/370291(Спар)
 3) находим id задачи мониторщика:
 
 ```sql 
@@ -39,7 +39,7 @@ join public.employees e on st.assignee_id = e.id
 where (e.active is True and gp.deleted is False and sn.is_online is False and gp.deleted is False) and (sn."name" like '%Монетка%' and gp.address like '%улица Рождественского, 13Б%' and e.name like '%Челябинск%')
 ```
 Выполнить:
-shop_task_id = 556106
+shop_task_id = 556106/556328(Спар)
 
 4) создаем срочную задачу (указав даты, автора задачи, конкретного конкурента и указав "ответственный магазин"):
 
@@ -171,7 +171,7 @@ where (gp.deleted is False and sn.is_online is False and gp.deleted is False) an
 
   Выполнить
 
-geo_points_id = 370202
+geo_points_id = 370202/370403(Магнит)
 
 3) находим id задачи мониторщика:
 
@@ -191,7 +191,7 @@ where (e.active is True and gp.deleted is False and sn.is_online is False and gp
 
   Выполнить
 
-shop_task_id = 556114
+shop_task_id = 556114/556327(Магнит)
 
 4) создаем срочную задачу (указав даты, автора задачи, конкретного конкурента и указав "ответственный магазин"):
 
