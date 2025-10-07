@@ -44,6 +44,7 @@ filippova.elvina/39371683
 
 swagger
 https://stage.kb-cv.itnap.site/api-task-manager/swagger/index.html#/task/post_
+
 https://test.kb-monita.ru:8000/pi/openapi---03/04/2025(https://portal.krasnoe-beloe.ru/company/personal/user/165050/tasks/task/view/205425/)
 
 
