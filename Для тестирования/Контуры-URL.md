@@ -35,7 +35,7 @@ http://tarenda.rw.org/
 
 Аналитика КБА
 http://tkba.rw.org:8000/profile ---тестовый контур
-filippova.elvina/14593791(СВ для теста и прода  savinova.alesya/14593791)
+filippova.elvina/145937911(СВ для теста и прода  savinova.alesya/14593791)
 
 https://kba.krasnoe-beloe.ru:8000/ ---продуктовый контур
 filippova.elvina/39371683
