@@ -73,8 +73,16 @@ https://portal.krasnoe-beloe.ru/auth/index.php?backurl=%2Fcompany%2Fpersonal%2Fu
 
 https://test.kb-monita.ru:8000/pi/openapi#/----------свагер для pricingapi
 
-Графана/локи (для логов)
+Графана/локи (для логов, монита Ценообразование)
 http://178.154.227.168:3000/explore?panes=%7B%220Qy%22:%7B%22datasource%22:%22gdLgTut7z%22,%22queries%22:%5B%7B%22refId%22:%22A%22,%22expr%22:%22%7Bapp%3D%5C%22pricingapi-monita%5C%22,%20cluster%3D%5C%22stage-monita%5C%22%7D%20%7C%3D%20%60%60%22,%22queryType%22:%22range%22,%22datasource%22:%7B%22type%22:%22loki%22,%22uid%22:%22gdLgTut7z%22%7D,%22editorMode%22:%22builder%22%7D%5D,%22range%22:%7B%22from%22:%22now-6h%22,%22to%22:%22now%22%7D%7D%7D&schemaVersion=1&orgId=1
 (efilippova/4lfSkAzegBysUSZwQZL4)
+
+
+
+Графана/локи (для логов Каталог КБ)
+
+https://monitoring.retail-kb.kbapp.ru/login
+
+(efilippova/L9DelYWWdZWvTUM9)
 
 https://rvtsakunov.eduonline.io/------кабинет курса по автотестированию(filippova.elvina2@gmail.com/Fdnjntcnth)
