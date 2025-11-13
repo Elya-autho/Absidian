@@ -37,7 +37,10 @@ http://tarenda.rw.org/
 http://tkba.rw.org:8000/profile ---тестовый контур
 filippova.elvina/145937911(СВ для теста и прода  savinova.alesya/14593791)
 
-https://kba.krasnoe-beloe.ru:8000/ ---продуктовый контур
+http://192.168.15.170/main?auth_code=zHmAROz3jUOGGTEuCfPRVExkAlLS94OO67UGNZRs&client_id=KVgRhmv228g2pfN4HhJO ---ссылка на тестовый сервис "Планограммы"
+(filippova.elvina/145937911)
+
+c ---продуктовый контур
 filippova.elvina/39371683
 
 
@@ -68,7 +71,7 @@ filippova.elvina/(KhDCR5wc3LsLPrQX)KhDCR5wc3LsLPrQx
 
 
 Битрикс
-https://portal.krasnoe-beloe.ru/auth/index.php?backurl=%2Fcompany%2Fpersonal%2Fuser%2F165050%2Ftasks%2Findex.php
+c
 логин filippova.elvina@krasnoe-beloe.ru пароль/
 
 https://test.kb-monita.ru:8000/pi/openapi#/----------свагер для pricingapi

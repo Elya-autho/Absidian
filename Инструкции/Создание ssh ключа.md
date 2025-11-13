@@ -29,3 +29,9 @@ $ ssh-add ~/.ssh/id_ed25519
 ![[Pasted image 20250711162114.png]]
 
 4. переходим в гитхаб/в настройках/выбираем Ssh end Gpg keys вставляем созданный ключ
+
+
+
+
+
+ ssh-keygen -t ed25519 -C "filippova.elvina2@gmail.com"
