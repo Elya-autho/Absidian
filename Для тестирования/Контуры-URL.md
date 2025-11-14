@@ -24,7 +24,7 @@ https://admin.retail-kb.kbapp.ru/login -продуктовый контур
 http://192.168.8.144/request-list
 прод
 https://kandidat.krasnoe-beloe.ru/request-list
-(для теста магазин:10001,10000 пароль 67Yc@YGcyxp!3)
+(для теста магазин:с,10000 пароль 67Yc@YGcyxp!3)
 
 
 Аренда 
