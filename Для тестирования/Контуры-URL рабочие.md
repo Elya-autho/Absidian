@@ -90,4 +90,7 @@ https://monitoring.retail-kb.kbapp.ru/explore?schemaVersion=1&panes=%7B%22vt4%22
 
 (efilippova/L9DelYWWdZWvTUM9)
 
-https://rvtsakunov.eduonline.io/------кабинет курса по автотестированию(filippova.elvina2@gmail.com/Fdnjntcnth)
+
+
+
+
