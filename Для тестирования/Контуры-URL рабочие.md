@@ -93,4 +93,5 @@ https://monitoring.retail-kb.kbapp.ru/explore?schemaVersion=1&panes=%7B%22vt4%22
 
 
 
-
+https://comp-test.krasnoe-beloe.ru/ - тестовый контур Парсеры
+filippova.elvina@krasnoe-beloe.ru/Rdflhj3108 - логин/пароль
