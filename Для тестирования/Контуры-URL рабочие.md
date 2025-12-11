@@ -35,7 +35,8 @@ http://tarenda.rw.org/
 
 Аналитика КБА
 http://tkba.rw.org:8000/profile ---тестовый контур
-filippova.elvina/145937911(СВ для теста и прода  savinova.alesya/14593791)
+filippova.elvina/26061147(было145937911)
+(СВ для теста и прода  savinova.alesya/14593791)
 
 http://192.168.15.170/main?auth_code=zHmAROz3jUOGGTEuCfPRVExkAlLS94OO67UGNZRs&client_id=KVgRhmv228g2pfN4HhJO ---ссылка на тестовый сервис "Планограммы"
 (filippova.elvina/145937911)
