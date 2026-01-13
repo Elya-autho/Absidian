@@ -24,7 +24,7 @@ join public.shop_networks sn on gp.shop_network_id = sn.id
 where (gp.deleted is False and sn.is_online is False and gp.deleted is False) and (sn."name" like '%Монетка%' and gp.address like '%улица Рождественского, 13Б%' and c."name" like '%Челябинск%')
 ```
 Выполнить:
-geo_points_id = 370194/370291(Спар)
+geo_points_id = 370194/370291(Спар), 370516 (Монетка)
 3) находим id задачи мониторщика:
 
 ```sql 

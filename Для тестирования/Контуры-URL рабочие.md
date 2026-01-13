@@ -23,9 +23,11 @@ https://admin.retail-kb.kbapp.ru/login -продуктовый контур
 тест:
 http://192.168.8.144/request-list
 прод
-https://kandidat.krasnoe-beloe.ru/request-list
+https://kandidat.krasnoe-beloe.ru/
+https://kandidat.eda-voda.ru/
 (для теста магазин:с,10000 пароль 67Yc@YGcyxp!3)
-
+(для прода креды СВ dokunina.valentina@krasnoe-beloe.ru/BSVXjfEMhtWeoSmTHobt)
+(для прода евы креды eda-vodakarzunova.kseniya@eda-voda.ru/ugms54)
 
 Аренда 
 тест:
@@ -37,6 +39,10 @@ http://tarenda.rw.org/
 http://tkba.rw.org:8000/profile ---тестовый контур
 filippova.elvina/26061147(было145937911)
 (СВ для теста и прода  savinova.alesya/14593791)
+
+[E&V (TEST) Аналитика - E&V (TEST) - Аналитика](http://tkba.rw.org:8008/login)-----тестовый контур Ева Аналитика
+
+
 
 http://192.168.15.170/main?auth_code=zHmAROz3jUOGGTEuCfPRVExkAlLS94OO67UGNZRs&client_id=KVgRhmv228g2pfN4HhJO ---ссылка на тестовый сервис "Планограммы"
 (filippova.elvina/145937911)
