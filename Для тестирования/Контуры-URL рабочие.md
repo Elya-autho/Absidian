@@ -47,7 +47,7 @@ filippova.elvina/26061147(было145937911)
 http://192.168.15.170/main?auth_code=zHmAROz3jUOGGTEuCfPRVExkAlLS94OO67UGNZRs&client_id=KVgRhmv228g2pfN4HhJO ---ссылка на тестовый сервис "Планограммы"
 (filippova.elvina/145937911)
 
-c ---продуктовый контур
+аналитика---продуктовый контур
 filippova.elvina/39371683
 
 
@@ -80,6 +80,12 @@ filippova.elvina/(KhDCR5wc3LsLPrQX)KhDCR5wc3LsLPrQx
 Битрикс
 c
 логин filippova.elvina@krasnoe-beloe.ru пароль/
+
+тест битрикс
+https://test-portal.krasnoe-beloe.ru
+креды тестового контура
+filippova.elvina@krasnoe-beloe.ru  /Qwerty1239
+
 
 https://test.kb-monita.ru:8000/pi/openapi#/----------свагер для pricingapi
 
