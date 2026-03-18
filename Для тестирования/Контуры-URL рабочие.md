@@ -72,21 +72,22 @@ admin/nanotek24
 
 Сервис сканер:
 http://sps-holding.ru:4545/login-----прод для входа с телефона(магазин например 10006/123456 пароль по дефолту и может смениться)
-http://192.168.15.140/---------------тест веб версия (dit/1095853)
+http://192.168.15.140/---------------тест веб версия (dit/123456(1095853 было))
 
 гитлаб
 filippova.elvina/(KhDCR5wc3LsLPrQX)KhDCR5wc3LsLPrQx
 
 
 Битрикс
-c
+https://portal.krasnoe-beloe.ru
 логин filippova.elvina@krasnoe-beloe.ru пароль/
+
 
 тест битрикс
 https://test-portal.krasnoe-beloe.ru
 креды тестового контура
-filippova.elvina@krasnoe-beloe.ru  /Qwerty1239
-
+filippova.elvina@krasnoe-beloe.ru  /Qwerty654321
+Может быть, при авторизации на мобильном устройстве, капча. Для удобства лучше сначала авторизоваться в  браузерной версии. Затем авторизация на мобильной версии пройдет без капчи.
 
 https://test.kb-monita.ru:8000/pi/openapi#/----------свагер для pricingapi
 
