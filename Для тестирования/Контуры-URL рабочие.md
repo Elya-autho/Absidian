@@ -80,7 +80,7 @@ filippova.elvina/(KhDCR5wc3LsLPrQX)KhDCR5wc3LsLPrQx
 
 Битрикс
 https://portal.krasnoe-beloe.ru
-логин filippova.elvina@krasnoe-beloe.ru пароль/
+логин filippova.elvina@krasnoe-beloe.ru пароль/mxYxJ2xY!RTF5HE
 
 
 тест битрикс
