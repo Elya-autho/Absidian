@@ -65,6 +65,7 @@ KhDCR5wc3LsLPrQX
 доступ к файлам Семина
 \\fs14.rw.org\ДИТ\Семин\
 \\fs03\Temp\5. МАРКЕТИНГ\21. Бельтикова Валерия\КАТАЛОГ КБ (Сборки)
+\\fs14.rw.org\ДИТ\Бадертдинова\050626
 
 Админка приложения Каталог КБ
 https://test-admin.retail-kb.kbapp.ru/
@@ -114,3 +115,4 @@ filippova.elvina@krasnoe-beloe.ru/Rdflhj3108 - логин/пароль
 
 
 filippova.elvina/gbnth2025 ---конфлюенс
+пароль аккаунт ios Freya450
