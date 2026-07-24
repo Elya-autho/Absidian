@@ -21,11 +21,11 @@
       "settings": {
         "vnext": [
           {
-            "address": "IP_АДРЕС_ВАШЕГО_VPS",  
+            "address": "89.125.24.175",  
             "port": 443,
             "users": [
               {
-                "id": "ВАШ_UUID",
+                "id": "43f19854-9311-4064-bbaf-cca7dab4e6d0",
                 "encryption": "none",
                 "flow": "xtls-rprx-vision"
               }
@@ -38,9 +38,9 @@
         "security": "reality",
         "realitySettings": {
           "fingerprint": "firefox",
-          "serverName": "Прописан в Inbound",  
-          "publicKey": "ПУБЛИЧНЫЙ_КЛЮЧ_СЕРВЕРА", 
-          "shortId": "SHORT_ID"
+          "serverName": "google.com",  
+          "publicKey": "aBgUKoFnYyscJkcJ2tna_mGFXfAMXv_dBp5CbLIummo", 
+          "shortId": "7d",
           "spiderX": ""
         }
       }
