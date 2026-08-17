@@ -3,50 +3,7 @@
 2. Создайте файл config.json и добавьте туда код:
 	
 ```json
-{
-  "inbounds": [
-    {
-      "port": 1080,
-      "listen": "0.0.0.0",
-      "protocol": "socks",
-      "settings": {
-        "auth": "noauth",
-        "udp": true
-      }
-    }
-  ],
-  "outbounds": [
-    {
-      "protocol": "vless",
-      "settings": {
-        "vnext": [
-          {
-            "address": "89.125.24.175",  
-            "port": 443,
-            "users": [
-              {
-                "id": "43f19854-9311-4064-bbaf-cca7dab4e6d0",
-                "encryption": "none",
-                "flow": "xtls-rprx-vision"
-              }
-            ]
-          }
-        ]
-      },
-      "streamSettings": {
-        "network": "tcp",
-        "security": "reality",
-        "realitySettings": {
-          "fingerprint": "firefox",
-          "serverName": "google.com",  
-          "publicKey": "aBgUKoFnYyscJkcJ2tna_mGFXfAMXv_dBp5CbLIummo", 
-          "shortId": "7d",
-          "spiderX": ""
-        }
-      }
-    }
-  ]
-}
+{ "inbounds": [ { "port": 1080, "listen": "0.0.0.0", "protocol": "socks", "settings": { "auth": "noauth", "udp": true } } ], "outbounds": [ { "protocol": "vless", "settings": { "domainStrategy": "UseIPv4", "vnext": [ { "address": "188.214.107.72", "port": 443, "users": [ { "id": "d0f314d0-25d8-4f0f-8e14-f90757d75aa8", "encryption": "none", "flow": "xtls-rprx-vision" } ] } ] }, "streamSettings": { "network": "tcp", "security": "reality", "realitySettings": { "fingerprint": "firefox", "serverName": "google.com", "publicKey": "DKXGl9ug-giztmxMRRX_iKV9j-UGbdnFmWIJjBimyWA", "shortId": "a4", "spiderX": "" } } } ] }
 ```
 
 3.  Создайте файл **`docker-compose.yml`**
