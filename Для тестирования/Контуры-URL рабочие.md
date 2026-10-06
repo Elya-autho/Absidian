@@ -37,8 +37,12 @@ http://tarenda.rw.org/
 
 Аналитика КБА
 http://tkba.rw.org:8000/profile ---тестовый контур
-filippova.elvina/35818866(2606114, было145937911)
+filippova.elvina/39371684
 (СВ для теста и прода  savinova.alesya/14593791)
+
+(http://192.168.15.130/) ----mailpit почтовик
+логин admin
+пароль mailpit123
 
 [E&V (TEST) Аналитика - E&V (TEST) - Аналитика](http://tkba.rw.org:8008/login)-----тестовый контур Ева Аналитика
 
