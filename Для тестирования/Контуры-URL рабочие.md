@@ -51,10 +51,11 @@ filippova.elvina/39371684
 http://192.168.15.170/main?auth_code=zHmAROz3jUOGGTEuCfPRVExkAlLS94OO67UGNZRs&client_id=KVgRhmv228g2pfN4HhJO ---ссылка на тестовый сервис "Планограммы"
 (filippova.elvina/145937911)
 
-аналитика---продуктовый контур
-filippova.elvina/39371684 стало (39371683 было)
+https://kba.krasnoe-beloe.ru:8000/аналитика   --- продуктовый контур аналитика
+filippova.elvina/86644035
 
-
+https://eva.eda-voda.ru:8000/  ева аналитика прод
+filippova.elvina/86644035
 
 swagger
 https://stage.kb-cv.itnap.site/api-task-manager/swagger/index.html#/task/post_
