@@ -21,7 +21,9 @@ https://admin.retail-kb.kbapp.ru/login -продуктовый контур
 Новичок 
 
 тест:
-http://192.168.8.144/request-list
+http://novich-test.rw.org/request-list?from=10000
+http://novich-test.rw.org/login
+(прежний ресурс http://192.168.8.144/request-list)
 прод
 https://kandidat.krasnoe-beloe.ru/
 https://kandidat.eda-voda.ru/
@@ -121,3 +123,8 @@ filippova.elvina@krasnoe-beloe.ru/Rdflhj3108 - логин/пароль
 
 filippova.elvina/gbnth2025 ---конфлюенс
 пароль аккаунт ios Freya450
+
+
+
+мп Когнита
+под админом магазина 888888/2953
