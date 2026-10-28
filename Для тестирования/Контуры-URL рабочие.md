@@ -54,7 +54,7 @@ http://192.168.15.170/main?auth_code=zHmAROz3jUOGGTEuCfPRVExkAlLS94OO67UGNZRs&cl
 (filippova.elvina/145937911)
 
 https://kba.krasnoe-beloe.ru:8000/аналитика   --- продуктовый контур аналитика
-filippova.elvina/86644035
+filippova.elvina/09193426(было 86644035)
 
 https://eva.eda-voda.ru:8000/  ева аналитика прод
 filippova.elvina/86644035
